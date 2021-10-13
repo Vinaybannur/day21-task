@@ -1,0 +1,28 @@
+
+img{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    
+}
+
+body{
+    margin: 0;
+}
+
+div{
+position: relative;
+}
+
+.count{
+    color: gold;
+    position: absolute;
+    bottom: 400px;
+    right: 150px;
+    font-size: 40px;
+    text-align: left;
+    border: solid gold;
+   
+    
+}
+
